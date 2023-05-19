@@ -59,12 +59,9 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
-    }
-<<<<<<< HEAD
+    },
     'raclette': {
-        'ingredients': {'pomme de terre': 2, 'creme fraiche': 1, 'lardon': 10, 'fromage rapper': 2},
+        'ingredients': {'cream': 1, 'ham': 10, 'cheddar': 2},
         'price': 12,
-    }
-=======
->>>>>>> parent of 4486a65 (My new pizza)
+    },
 }
