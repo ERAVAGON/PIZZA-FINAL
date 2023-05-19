@@ -36,4 +36,8 @@ RECIPES = {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
     }
+    'raclette': {
+        'ingredient': {'pomme de terre': 2, 'creme fraiche': 1, 'lardon': 10, 'fromage rapper': 2},
+        'price': 12,
+    }
 }
