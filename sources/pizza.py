@@ -61,7 +61,7 @@ RECIPES = {
         'price': 11,
     },
     'raclette': {
-        'ingredients': {'ham': 10, 'cheddar': 2, 'tomato':2},
+        'ingredients': {'ham': 10, 'cheddar': 2},
         'price': 12,
         'sauce': 'cream'
     },
