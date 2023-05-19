@@ -4,7 +4,7 @@ from typing import Dict
 ALL_INGREDIENTS = ('ham', 'mozzarella', 'parmesan', 'gorgonzola', 'onion', 'olive',
                    'pepper', 'garlic', 'basil', 'mushroom', 'cheddar', 'oregano')
 
-ALL_SAUCES = ('tomato', 'cream', 'crème')
+ALL_SAUCES = ('tomato', 'cream')
 
 
 class UnknownIngredientException(Exception):
